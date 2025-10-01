@@ -1,0 +1,15 @@
+# Windows: 
+Thumbs.db 
+ehthumbs.bd 
+Desktop.ini 
+
+# Python
+*.py[cod] 
+*.so 
+*.egg 
+*.egg-info 
+dist 
+build 
+
+# My configurations: 
+gitskills/
